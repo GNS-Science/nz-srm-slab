@@ -17,6 +17,7 @@ The development work can be found here: https://github.com/GNS-Science/nz-srm-sl
 The original data used in the analyses can be found here: https://github.com/GNS-Science/nz-srm-slab/tree/main/model-development/data
 
 Works using the catalogue can be found here: https://github.com/GNS-Science/nz-srm-slab/tree/main/model-development/catalog-work
-The event-classsified and declustered catalogues are available here: https://github.com/GNS-Science/nz-srm-slab/tree/main/model-development/catalog-work/classified_catalogs
 
-Work-related to the subduction (or subduction interface) model can be found here: https://github.com/GNS-Science/nz-srm-slab/tree/main/model-development/subduction-model
+The event-classified and declustered catalogues are available here: https://github.com/GNS-Science/nz-srm-slab/tree/main/model-development/catalog-work/classified_catalogs
+
+Work related to the subduction (or subduction interface) model can be found here: https://github.com/GNS-Science/nz-srm-slab/tree/main/model-development/subduction-model
