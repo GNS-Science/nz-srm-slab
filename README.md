@@ -23,7 +23,7 @@ The subduction (interface-slab boundary) model can be found here:
 
 If you use the data and codes for your work, please cite the following.   
 #### References
-+  Thingbaijam, K.K.S., M.C. Gerstenberger, C. Rollins, R.J. Van Dissen, S.J. Rastin, A. Christophersen, J. Ristau, C. Williams, D. Fitzenz, and M. Pagani (2023) A seismogenic slab source model for Aotearoa New Zealand, <i> Bulletin of Seismological Society of America </i>. Under Review. 
++  Thingbaijam, K.K.S., Gerstenberger, M.C., Rollins, C., Van Dissen, R.J., Rastin, S.J., Christophersen, A., Ristau, J., Williams, C.A., Fitzenz, D.D. and Pagani, M., 2024. A seismogenic slab source model for Aotearoa New Zealand. Bulletin of the Seismological Society of America, 114(1), pp.95-110.
 +  Rollins, C., K.K.S. Thingbaijam, J. Hutchinson, M.C. Gerstenberger, A. Christophersen, D. Eberhart-Phillips, S.J. Rastin, and R.J. Van Dissen (2022). An augmented New Zealand earthquake catalogue, event classifications, and models of the depth distribution of shallow earthquakes in the greater New Zealand region. Lower Hutt (NZ): GNS Science. 83 p. (GNS Science report; 2021/58). doi:10.21420/XT4Y-WY45.
 
 ##### Note
